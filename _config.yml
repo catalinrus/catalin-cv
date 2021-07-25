@@ -5,7 +5,7 @@ title: Catalin-Ignat Rus
 url: 'https://catalinrus.com'
 baseurl: '/catalin-cv' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: berry # blue turquoise green berry orange ceramic
+theme_skin: green # blue turquoise green berry orange ceramic
 
 # Tracker
 analytics: UA-83979019-1
