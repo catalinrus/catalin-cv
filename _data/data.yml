@@ -48,70 +48,78 @@ career-profile:
 
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
-
     - degree: Computer Science
-      university: Aurel Vlaicu Arad
+      university: Aurel Vlaicu University of Arad, Romania
       time: 2020 - current
     
     - degree: Bacclaureate in Telecomunications
-      Highschool: Grup Scolar Industrial Transport Cai Ferate Arad
+      High School: School of Electronics and Automation Technology Caius Iacob High School of Arad, Romania
       time: 2007 - 2011
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Deputy General Manager
+      time: 01.04.2020 - Present
+      company: Residence Imobiliare Mot SRL, Arad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        - establish connections with new partners;
 
-          - Bullet point
-          - Bullet point 
+        - coordination of staff in everyday activities on-site;
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - researching for best offers of the construction materials
+
+        - management of IT equipment within the company
+
+
+    - role: Purchasing Manager
+      time: 01/10/2019 - 31/04/2020
+      company: Residence Imobiliare Mot SRL, Arad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - establish connections with new partners;
 
-          - Bullet point
-          - Bullet point
+        - researching for best offers of the construction materials;
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - real estate seles
+
+
+    - role: Technical Support
+      time: 01/09/2018 – 01/09/2019
+      company: Spy Shop SRL, Timisoara
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        - technical support via phone/live video or face to face
 
-          - Bullet point
-          - Bullet point
+        - creating youtube content
+
+        - sales
+        
+    - role: Sales Consultant
+      time: 01/11/2015 – 01/08/2018
+      company: Spy Shop SRL, Timisoara
+      details: |
+        - direct sales to the end customer and B2B (CCTV; thermal cameras; fire detection systems; smart-home automation; automation gates etc)
+
+        - personalized offers for the client
+        
+        
+     - role: Security Systems Technician
+       time: 01/03/2014 – 01/04/2015
+       company: Matrix Computers & Security SRl, Arad
+       details: |
+        - Programming Paradox detection systems and mounting detection systems, video surveillance, access control, and their maintenance.
+        
+        
+     - role: PC Operator
+       time: 01/02/2013 – 01/04/2014
+       company: Finprom SRL, Arad
+       details: |
+        - obtain the life insurance from one of the authorized companies: AXA, Net Insurance, Cardiff, MetLife, for clients who wanted to get credit like Cessione del Quinto which means the assignment of the fifth part of the salary  
+        
+        - data entry
+        
+     - role: Assistant Mechanic
+       time: 01/10/2011 – 01/11/2012
+       company: Auto Schunn SRL, Arad
+       details: |
+        - I worked in a team with an authorized mechanic and I learned how to do maintenance and vehicle diagnostic tests.
 
 projects:
     title: Projects
