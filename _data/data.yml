@@ -7,55 +7,48 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Catalin-Ignat Rus
+    tagline: junior developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: catalin.ignat92@yahoo.com
+    phone: +40729666966
+    website: catalinrus.com #do not add http://
+    linkedin: catalin-rus-6b38b864
+    # xing: alandoe
+    github: catalinrus
+    # telegram: # add your nickname without '@' sign
+    # gitlab:
+    # bitbucket:
+    # twitter: '@webjeda'
+    # stack-overflow: # Number/Username, e.g. 123456/alandoe
+    # codewars:
+    # goodreads: # Number-Username, e.g. 123456-alandoe
+    # pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: Romanian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Mid-level
 
     interests:
-      - item: Climbing
+      - item: Cycling
         link:
 
       - item: Snowboarding
         link:
 
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Computer Science student and at the same time I work for a major real estate developer in the western part of Romania.
+      Proficient in English, versatile, and able to easily adapt to changes and generate results in no time.
+      I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
+      For my future professional development, I plan to study and learn different other technologies.
+      
 education:
     - degree: MSc in Computer Science
       university: University of London
