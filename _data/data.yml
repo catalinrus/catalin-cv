@@ -20,14 +20,12 @@ sidebar:
     
 
     languages:
-      - idiom: English
+      - idiom: Romanian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Mid-level
 
-      - idiom: Spanish
-        level: Professional
         
     interests:
       - item: Climbing
