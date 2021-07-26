@@ -31,16 +31,16 @@ sidebar:
       - item: Family
         link:
 
-      - item: Travel
+      - item: Learning
         link:
 
-      - item: Cooking
+      - item: Travel
         link:
         
       - item: Cycling
         link:
         
-      - item: Learning
+      - item: Cooking
         link:
 
       
@@ -52,17 +52,11 @@ career-profile:
       I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
       For my future professional development, I plan to study and learn different other technologies.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Science
+      university: Aurel Vlaicu University of Arad, Romania - Faculty of Exact Sciences/Informatics
+      time: 2020 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point 
+        The main language of study: English  
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
