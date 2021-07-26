@@ -28,15 +28,22 @@ sidebar:
 
         
     interests:
-      - item: Climbing
+      - item: Family
         link:
 
-      - item: Snowboarding
+      - item: Travel
         link:
 
       - item: Cooking
         link:
+        
+      - item: Cycling
+        link:
+        
+      - item: Learning
+        link:
 
+      
 career-profile:
     title: Career Profile
     summary: |
