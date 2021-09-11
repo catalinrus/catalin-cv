@@ -118,23 +118,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Apple
-        level: 98%
+      - name: Linux
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: bash
+        level: 50%
 
 footer: >
     CV - Catalin-Ignat Rus
