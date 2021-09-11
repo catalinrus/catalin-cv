@@ -119,7 +119,7 @@ skills:
 
     toolset:
       - name: Python
-        level: learning
+        level: 80%
 
       - name: HTML5 & CSS
         level: 98%
