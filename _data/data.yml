@@ -118,23 +118,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+      - name: Python
+        level: learning
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 98%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
+      footer: >
     CV - Catalin-Ignat Rus
