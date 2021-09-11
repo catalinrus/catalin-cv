@@ -28,9 +28,6 @@ sidebar:
 
         
     interests:
-      - item: Family
-        link:
-
       - item: Learning
         link:
 
@@ -106,9 +103,9 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Webmail server
+      - title: Webmail server using Axigen
         link: "#hook"
-        tagline: "My first project"
+        tagline: "My first project was to install on Virtual Machine hosted by Oracle Cloud and configure Webmail server using Axigen Mail Server Software."
 
       - title: Volunteering - Information Technology
         link: "#"
