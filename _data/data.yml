@@ -103,13 +103,13 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Webmail server using Axigen
+      - title: Webmail server using Axigen client
         link: "#hook"
         tagline: "Create and configure Virtual Machine hosted by Oracle Cloud with Ubuntu 20.04 OS. On this machine I installed  and configure Webmail server using Axigen Mail Server Software."
         
-      - title: Webmail server using Axigen
+      - title: Personal Curriculum Vitae website
         link: "#hook"
-        tagline: "Create and configure Virtual Machine hosted by Oracle Cloud with Ubuntu 20.04 OS. On this machine I installed  and configure Webmail server using Axigen Mail Server Software."
+        tagline: "Create personal curriculum vitae using YAML template after purchasing domain for it and connect it to github repository"
 
       - title: Volunteering - Information Technology
         link: "#"
