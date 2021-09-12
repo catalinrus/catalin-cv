@@ -106,6 +106,10 @@ projects:
       - title: Webmail server using Axigen
         link: "#hook"
         tagline: "Create and configure Virtual Machine hosted by Oracle Cloud with Ubuntu 20.04 OS. On this machine I installed  and configure Webmail server using Axigen Mail Server Software."
+        
+      - title: Webmail server using Axigen
+        link: "#hook"
+        tagline: "Create and configure Virtual Machine hosted by Oracle Cloud with Ubuntu 20.04 OS. On this machine I installed  and configure Webmail server using Axigen Mail Server Software."
 
       - title: Volunteering - Information Technology
         link: "#"
