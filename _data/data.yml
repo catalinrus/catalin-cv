@@ -44,7 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Computer Science student and at the same time I work for a major real estate developer in the western part of Romania.
+      Computer Science student and at the same time I worked for a major real estate developer in the western part of Romania.
       Proficient in English, versatile, and able to easily adapt to changes and generate results in no time.
       I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
       For my future professional development, I plan to study and learn different other technologies.
@@ -60,15 +60,17 @@ experiences:
       company: Residence Imobiliare Mot SRL, Arad
       details: |
         - establish connections with new partners;
-        - coordination of staff in everyday activities on-site;
+        - staff coordination in everyday activities on-site;
+        - team activity management;
         - researching for best offers of the construction materials;
         - management of IT equipment within the company.
     - role: Purchasing Manager
       time: 01/10/2019 - 31/04/2020
       company: Residence Imobiliare Mot SRL, Arad
       details: |
-        - establish connections with new partners;
+        - maintaining connections with existing partners;
         - researching for best offers of the construction materials;
+        - inventory management
         - real estate seles.
     - role: Technical Support
       time: 01/09/2018 – 30/09/2019
@@ -76,6 +78,7 @@ experiences:
       details: |
         - technical support via phone/live video or face to face;
         - creating youtube content;
+        - Maintenance, Installation, Setting, and Repair of SLINEX Analogue/IP-based and IP Direct product lines;
         - sales.
     - role: Sales Consultant
       time: 01/11/2015 – 31/08/2018
@@ -87,12 +90,12 @@ experiences:
       time: 01/03/2014 – 31/03/2015
       company: Matrix Computers & Security SRl, Arad
       details: |
-        - Programming Paradox detection systems and mounting detection systems, video surveillance, access control, and their maintenance.
+        - Installing and programming Paradox detection systems and mounting detection systems, video surveillance, access control, and their maintenance.
     - role: PC Operator
       time: 01/02/2013 – 28/02/2014
       company: Finprom SRL, Arad
       details: |
-        - obtain the life insurance from one of the authorized companies: AXA, Net Insurance, Cardiff, MetLife, for clients who wanted to get credit like Cessione del Quinto which means the assignment of the fifth part of the salary
+        - obtain the life insurance from one of the authorized companies: AXA, Net Insurance, Cardiff, MetLife, for clients who wanted to obtain loans like Cessione del Quinto which means the assignment of the fifth part of the salary;
         - data entry.
     - role: Assistant Mechanic
       time: 01/10/2011 – 01/11/2012
@@ -105,11 +108,11 @@ projects:
     assignments:
       - title: Webmail server using Axigen client
         link: "#hook"
-        tagline: "Create and configure Virtual Machine hosted by Oracle Cloud with Ubuntu 20.04 OS. On this machine, I installed and configure the Webmail server using Axigen Mail Server Software."
+        tagline: "Created a Ubuntu 20.04 VM instance, hosted in Oracle Cloud, then installed and configured the Axigen Mail Server Software. This machine now serves as my personal email server."
         
       - title: Personal Curriculum Vitae website
         link: "#hook"
-        tagline: "Create personal curriculum vitae using the YAML template after purchasing the domain for it and connect it to the GitHub repository."
+        tagline: "Create a personal curriculum vitae website, using the Jekyll static site generator. The website is hosted with GitHub Pages."
 
       - title: Volunteering - Information Technology
         link: "#"
