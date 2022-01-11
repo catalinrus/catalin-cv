@@ -122,7 +122,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Linux
+      - name: OS:Windows, mac OS, Ubuntu and Ubuntu Server
         level: 70%
 
       - name: Python
