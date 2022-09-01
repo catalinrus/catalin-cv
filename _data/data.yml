@@ -126,6 +126,10 @@ projects:
       - title: Personal Curriculum Vitae website
         link: "#hook"
         tagline: "Create a personal curriculum vitae website, using the Jekyll static site generator. The website is hosted with GitHub Pages."
+        
+      - title: Personal Curriculum Vitae website
+        link: "#hook"
+        tagline: "Create a personal curriculum vitae website, using the Jekyll static site generator. The website is hosted with GitHub Pages."
 
       - title: Volunteering - Information Technology
         link: "#"
