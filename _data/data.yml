@@ -53,18 +53,19 @@ education:
         The main language of study: English
 experiences:
     - role: Software Engineer
-      time: 01/05/2020 - 15/12/2021
-      company: Residence Imobiliare Mot SRL, Arad
+      time: 01/04/2020 - Present
+      company: SC Tractor Set GO SRL, Cluj-Napoca
       details: |
-        - team leadership;
-        - team activity management;
-        - establish connections with new partners;
-        - staff coordination in everyday activities on-site;
-        - researching for best offers of the construction materials;
-        - management of IT equipment within the company.
+        - management and monitoring of networking infrastructure;
+        - user management on Windows-based workstations;
+        - Zabbix server deployment and management;
+        - Gitlab server deployment and management;
+        - Nextcloud instance deployment and management;
+        - Linux;
+        - BASH.
     - role: Deputy General Manager
       time: 01/05/2020 - 15/12/2021
-      company: Residence Imobiliare Mot SRL, Arad
+      company: SC Residence Imobiliare Mot SRL, Arad
       details: |
         - team leadership;
         - team activity management;
@@ -74,7 +75,7 @@ experiences:
         - management of IT equipment within the company.
     - role: Purchasing Manager
       time: 01/10/2019 - 31/04/2020
-      company: Residence Imobiliare Mot SRL, Arad
+      company: SC Residence Imobiliare Mot SRL, Arad
       details: |
         - maintaining connections with existing partners;
         - researching for best offers of the construction materials;
@@ -82,7 +83,7 @@ experiences:
         - real estate seles.
     - role: Technical Support
       time: 01/09/2018 – 30/09/2019
-      company: Spy Shop SRL, Timisoara
+      company:  SC Spy Shop SRL, Timisoara
       details: |
         - technical support via phone/live video or face to face;
         - creating youtube content;
@@ -90,24 +91,24 @@ experiences:
         - sales.
     - role: Sales Consultant
       time: 01/11/2015 – 31/08/2018
-      company: Spy Shop SRL, Timisoara
+      company: SC Spy Shop SRL, Timisoara
       details: |
         - direct sales to the end customer and B2B (CCTV; thermal cameras; fire detection systems; smart-home automation; automation gates etc)
         - personalized offers for the client.
     - role: Security Systems Technician
       time: 01/03/2014 – 31/03/2015
-      company: Matrix Computers & Security SRl, Arad
+      company: SC Matrix Computers & Security SRl, Arad
       details: |
         - Installing and programming Paradox detection systems and mounting detection systems, video surveillance, access control, and their maintenance.
     - role: PC Operator
       time: 01/02/2013 – 28/02/2014
-      company: Finprom SRL, Arad
+      company: SC Finprom SRL, Arad
       details: |
         - obtain the life insurance from one of the authorized companies: AXA, Net Insurance, Cardiff, MetLife, for clients who wanted to obtain loans like Cessione del Quinto which means the assignment of the fifth part of the salary;
         - data entry.
     - role: Assistant Mechanic
       time: 01/10/2011 – 01/11/2012
-      company: Auto Schunn SRL, Arad
+      company: SC Auto Schunn SRL, Arad
       details: |
         - I worked in a team with an authorized mechanic and I learned how to do maintenance and vehicle diagnostic tests.
 projects:
