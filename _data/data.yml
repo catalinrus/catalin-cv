@@ -141,16 +141,12 @@ skills:
     toolset:
       - name: OS:Windows, mac OS, Ubuntu and Ubuntu Server
         level: 70%
-
       - name: Python
         level: 60%
-
       - name: HTML5 & CSS
         level: 80%
-
       - name: gitHub
-        level: 90%
-        
+        level: 90%  
       - name: bash
         level: 50%
 
