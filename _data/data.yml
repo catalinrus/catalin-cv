@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Catalin-Ignat Rus
-    tagline: Junior Developer
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,10 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Computer Science student and at the same time I worked for a major real estate developer in the western part of Romania.
-      Proficient in English, versatile, and able to easily adapt to changes and generate results in no time.
-      I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
-      For my future professional development, I plan to study and learn different other technologies.
+      Final year Computer Science student, a person who is looking to develop and improve continuously. Proficient in English, versatile, and able to easily adapt to changes and generate results in no time. I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
 education:
     - degree: Computer Science
       university: Aurel Vlaicu University of Arad, Romania - Faculty of Exact Sciences/Informatics
