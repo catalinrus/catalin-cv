@@ -115,13 +115,21 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Webmail server using Axigen client
+      - title: Monitoring solution using Zabbix Server
+        link: "#hook"
+        tagline: "Using a VPS with OS Ubuntu Server 20.04 LTS, installed and configured the Zabbix Server to monitor SSL certificates of 32 websites, monitoring servers: disk, CPU, memory usage, and if there are OS updates. Monitoring workstations, and automating sending a mail with notifications about certain triggers that I configured."
+     
+     - title: Personal email server (Axigen)
         link: "#hook"
         tagline: "Created a Ubuntu 20.04 VM instance, hosted in Oracle Cloud, then installed and configured the Axigen Mail Server Software. This machine now serves as my personal email server."
         
       - title: Personal Curriculum Vitae website
         link: "#hook"
-        tagline: "Create a personal curriculum vitae website, using the Jekyll static site generator. The website is hosted with GitHub Pages."
+        tagline: "Created a personal curriculum vitae website, using the Jekyll static site generator. The website is hosted with GitHub Pages."
+       
+      - title: Personal home server
+        link: "#hook"
+        tagline: "I have repurposed an old laptop to create a personal home server that runs various software/services and is also used for tests when needed. It uses Ubuntu 20.04 LTS as OS and resides on my local network."
 
       - title: Volunteering - Information Technology
         link: "#"
