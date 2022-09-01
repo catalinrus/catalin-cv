@@ -1,185 +1,150 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# Be aware that even a small syntax error here can lead to failures in output. 
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: True # set to false or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to True if you want to remove education in main section instead of in sidebar
 
     # Profile information
     name: Catalin-Ignat Rus
-    tagline: junior developer
+    tagline: Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: catalin.ignat92@yahoo.com
-    phone: +40729666966
+    email: me@catalinrus.com
+    phone: +40 729666966
     website: catalinrus.com #do not add http://
     linkedin: catalin-rus-6b38b864
-    # xing: alandoe
     github: catalinrus
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@webjeda'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+    
 
     languages:
       - idiom: Romanian
         level: Native
 
       - idiom: English
-        level: Mid-level
+        level: Mid-level:Listening-B2/Reading-A2/Spoken Interaction-B2/Spoken Production-B2/Writing-A2
 
+        
     interests:
+      - item: Learning
+        link:
+
+      - item: Travel
+        link:
+        
       - item: Cycling
         link:
-
-      - item: Snowboarding
+        
+      - item: Cooking
         link:
 
+      
 career-profile:
     title: Career Profile
     summary: |
-      Computer Science student and at the same time I work for a major real estate developer in the western part of Romania.
-      Proficient in English, versatile, and able to easily adapt to changes and generate results in no time.
-      I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
-      For my future professional development, I plan to study and learn different other technologies.
-      
+      Final year Computer Science student, a person who is looking to develop and improve continuously. Proficient in English, versatile, and able to easily adapt to changes and generate results in no time. I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Computer Science
+      university: Aurel Vlaicu University of Arad, Romania - Faculty of Exact Sciences/Informatics
+      time: 2020 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The main language of study: English
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: 01/04/2020 - Present
+      company: SC Tractor Set GO SRL, Cluj-Napoca
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - management and monitoring of networking infrastructure;
+        - user management on Windows-based workstations;
+        - Zabbix server deployment and management;
+        - Gitlab server deployment and management;
+        - Nextcloud instance deployment and management;
+        - Linux;
+        - BASH.
+    - role: Deputy General Manager
+      time: 01/05/2020 - 15/12/2021
+      company: SC Residence Imobiliare Mot SRL, Arad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - team leadership;
+        - team activity management;
+        - establish connections with new partners;
+        - staff coordination in everyday activities on-site;
+        - researching for best offers of the construction materials;
+        - management of IT equipment within the company.
+    - role: Purchasing Manager
+      time: 01/10/2019 - 31/04/2020
+      company: SC Residence Imobiliare Mot SRL, Arad
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - maintaining connections with existing partners;
+        - researching for best offers of the construction materials;
+        - inventory management
+        - real estate seles.
+    - role: Technical Support
+      time: 01/09/2018 – 30/09/2019
+      company:  SC Spy Shop SRL, Timisoara
+      details: |
+        - technical support via phone/live video or face to face;
+        - creating youtube content;
+        - Maintenance, Installation, Setting, and Repair of SLINEX Analogue/IP-based and IP Direct product lines;
+        - sales.
+    - role: Sales Consultant
+      time: 01/11/2015 – 31/08/2018
+      company: SC Spy Shop SRL, Timisoara
+      details: |
+        - direct sales to the end customer and B2B (CCTV; thermal cameras; fire detection systems; smart-home automation; automation gates etc)
+        - personalized offers for the client.
+    - role: Security Systems Technician
+      time: 01/03/2014 – 31/03/2015
+      company: SC Matrix Computers & Security SRl, Arad
+      details: |
+        - Installing and programming Paradox detection systems and mounting detection systems, video surveillance, access control, and their maintenance.
+    - role: PC Operator
+      time: 01/02/2013 – 28/02/2014
+      company: SC Finprom SRL, Arad
+      details: |
+        - obtain the life insurance from one of the authorized companies: AXA, Net Insurance, Cardiff, MetLife, for clients who wanted to obtain loans like Cessione del Quinto which means the assignment of the fifth part of the salary;
+        - data entry.
+    - role: Assistant Mechanic
+      time: 01/10/2011 – 01/11/2012
+      company: SC Auto Schunn SRL, Arad
+      details: |
+        - I worked in a team with an authorized mechanic and I learned how to do maintenance and vehicle diagnostic tests.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Webmail server using Axigen client
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Created a Ubuntu 20.04 VM instance, hosted in Oracle Cloud, then installed and configured the Axigen Mail Server Software. This machine now serves as my personal email server."
+        
+      - title: Personal Curriculum Vitae website
+        link: "#hook"
+        tagline: "Create a personal curriculum vitae website, using the Jekyll static site generator. The website is hosted with GitHub Pages."
 
-      - title: DevStudio
+      - title: Volunteering - Information Technology
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Hardware & Software maintenance for computers to Youth & Family non-governmental charity organization."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: OS:Windows, mac OS, Ubuntu and Ubuntu Server
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Python
         level: 60%
 
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: gitHub
+        level: 90%
+        
+      - name: bash
+        level: 50%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    CV - Catalin-Ignat Rus
