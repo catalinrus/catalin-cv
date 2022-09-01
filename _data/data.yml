@@ -137,18 +137,18 @@ projects:
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
-      - name: OS:Windows, mac OS, Ubuntu and Ubuntu Server
-        level: 70%
-      - name: Python
-        level: 60%
+      - name: Python & Django
+        level: 98%
+      - name: Javascript & jQuery
+        level: 98%
+      - name: Angular
+        level: 98%
       - name: HTML5 & CSS
-        level: 80%
-      - name: gitHub
-        level: 90%  
-      - name: bash
-        level: 50%
-
+        level: 95%
+      - name: Ruby on Rails
+        level: 85%
+      - name: Sketch & Photoshop
+        level: 60%
 footer: >
     CV - Catalin-Ignat Rus
