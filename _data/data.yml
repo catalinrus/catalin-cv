@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Alan Doe
     tagline: Full Stack Developer
-    name: Catalin-Ignat Rus
+    name: yourname
     tagline: junior developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -28,12 +28,12 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
-    email: catalin.ignat92@yahoo.com
-    phone: +40729666966
-    website: catalinrus.com #do not add http://
-    linkedin: catalin-rus-6b38b864
+    email: ctest@ymail.com
+    phone: +484999934444
+    website: test.com #do not add http://
+    linkedin: something
     # xing: alandoe
-    github: catalinrus
+    github: github
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -45,7 +45,7 @@ sidebar:
 
     languages:
       - idiom: English
-      - idiom: Romanian
+      - idiom: Greek
         level: Native
 
       - idiom: French
