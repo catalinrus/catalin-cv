@@ -53,7 +53,7 @@ education:
         The main language of study: English
 experiences:
     - role: Software Engineer
-      time: 01/04/2020 - Present
+      time: 01/04/2020 - 30.10.2022
       company: SC Tractor Set GO SRL, Cluj-Napoca
       details: |
         - working in Agile and Scrum methodology;
@@ -62,6 +62,7 @@ experiences:
         - Zabbix server deployment and management;
         - Gitlab server deployment and management;
         - Nextcloud instance deployment and management;
+        - working with Oracle Virtual Box for VM instances;
         - Linux;
         - BASH.
     - role: Deputy General Manager
