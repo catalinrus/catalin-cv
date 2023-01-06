@@ -134,7 +134,7 @@ projects:
         tagline: "I have repurposed an old laptop to create a personal home server that runs various software/services and is also used for tests when needed. It uses Ubuntu 20.04 LTS as OS and resides on my local network.
 
 Software that currently runs on said server:
-        details:
+      - details:
         - Cockpit
         - Plex Media Server
         - Sonarr(for tv series)
