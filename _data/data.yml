@@ -135,14 +135,14 @@ projects:
 
 Software that currently runs on said server:
 
-        - Cockpit
-        - Plex Media Server
-        - Sonarr(for tv series)
-        - Radarr(for movies)
-        - Transmission(download client)
-        - Jackett (works as a proxy server and more)
-        - Bazarr(for subtitles)
-        - Requestrr(chatbot integrated with my discord server that is using API from Sonarr & Radarr)"
+        Cockpit
+        Plex Media Server
+        Sonarr(for tv series)
+        Radarr(for movies)
+        Transmission(download client)
+        Jackett (works as a proxy server and more)
+        Bazarr(for subtitles)
+        Requestrr(chatbot integrated with my discord server that is using API from Sonarr & Radarr)"
 
       - title: Volunteering - Information Technology
         link: "#"
