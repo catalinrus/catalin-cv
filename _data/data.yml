@@ -131,9 +131,9 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: Monitoring solution using Zabbix Server
+      - title: "Text to Speech" Web Application
         link: "#hook"
-        tagline: "Using a VPS with OS Ubuntu Server 20.04 LTS, installed and configured the Zabbix Server to monitor SSL certificates of 32 websites, monitoring servers: disk, CPU, memory usage, and if there are OS updates. Monitoring workstations, and automating sending a mail with notifications about certain triggers that I configured."
+        tagline: "Convert a PDF file (written in LATEX) into an audio file. It was my thesis project, deployed on OCI (Oracle Cloud Infrastructure) with Ubuntu Server 20.04 LTS, and for security, I used Certbot for autorenewal of the SSL certificate by 'Let's Encrypt'. My code is stored on GitHub in a private repository and I made a bash script in OCI Instance to update the modified code in GitHub. The primary language is Python and the framework FastAPI was utilized to create the web app. The application utilizes JavaScript for audio interpretation and I used Bootstrap for styling."
     
       - title: Monitoring solution using Zabbix Server
         link: "#hook"
