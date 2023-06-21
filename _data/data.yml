@@ -134,7 +134,11 @@ projects:
       - title: Monitoring solution using Zabbix Server
         link: "#hook"
         tagline: "Using a VPS with OS Ubuntu Server 20.04 LTS, installed and configured the Zabbix Server to monitor SSL certificates of 32 websites, monitoring servers: disk, CPU, memory usage, and if there are OS updates. Monitoring workstations, and automating sending a mail with notifications about certain triggers that I configured."
-        
+    
+      - title: Monitoring solution using Zabbix Server
+        link: "#hook"
+        tagline: "Using a VPS with OS Ubuntu Server 20.04 LTS, installed and configured the Zabbix Server to monitor SSL certificates of 32 websites, monitoring servers: disk, CPU, memory usage, and if there are OS updates. Monitoring workstations, and automating sending a mail with notifications about certain triggers that I configured."
+            
       - title: Personal email server (Axigen)
         link: "#hook"
         tagline: "Created a Ubuntu 20.04 VM instance, hosted in Oracle Cloud, then installed and configured the Axigen Mail Server Software. This machine now serves as my personal email server."
