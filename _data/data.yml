@@ -44,11 +44,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Final year Computer Science student, a person who is looking to develop and improve continuously. Proficient in English, versatile, and able to easily adapt to changes and generate results in no time. I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
+      I am a person who is looking to develop and improve continuously. Proficient in English, versatile, and able to easily adapt to changes and generate results in no time. I have a knack for innovation and for experimenting with new technologies, and I’m usually one of the first persons in the team to look for areas of improvement and do something about it.
 education:
     - degree: Computer Science
       university: Aurel Vlaicu University of Arad, Romania - Faculty of Exact Sciences/Informatics
-      time: 2020 - Present
+      time: 2020 - 2023
       details: |
         The main language of study: English
 experiences:
@@ -74,7 +74,7 @@ experiences:
         - management and monitoring of networking infrastructure;
         - user management on Windows-based workstations;
         - Zabbix server deployment and management;
-        - Gitlab server deployment and management;
+        - GitLab server deployment and management;
         - Nextcloud instance deployment and management;
         - working with Oracle Virtual Box for VM instances;
         - Linux;
@@ -96,12 +96,12 @@ experiences:
         - maintaining connections with existing partners;
         - researching for best offers of the construction materials;
         - inventory management
-        - real estate seles.
+        - real estate sales.
     - role: Technical Support
       time: 01/09/2018 – 30/09/2019
       company:  SC Spy Shop SRL, Timisoara
       details: |
-        - technical support via phone/live video or face to face;
+        - technical support via phone/live video or face-to-face;
         - creating youtube content;
         - Maintenance, Installation, Setting, and Repair of SLINEX Analogue/IP-based and IP Direct product lines;
         - sales.
