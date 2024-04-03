@@ -34,7 +34,10 @@ sidebar:
       - item: Dev-Ops
         link:
 
-      - item: Network
+      - item: Home Lab
+        link:
+      
+      - item: Raspberry Pi
         link:
 
 
