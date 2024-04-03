@@ -131,7 +131,7 @@ projects:
     assignments:
       - title: Raspberry PI - Penetration Testing Lab - ethical hacking
         link: "#hook"
-        tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against only and all attacks on my router(for tests) and in my safe environment. I learned about hashcat tool and how to attack a "hash" with this tool using the "rockyou" wordlist. Another great tool is Wifite, which is more powerful and this tool can launch attacks in several modes against WIFI targets to leak some packages (as handshakes and much more).
+        tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against and only on my router to launch all attacks in my safe environment. I learned about hashcat tool and how to attack a "hash" with this tool using the "rockyou" wordlist. Another great tool is Wifite, which is more powerful and this tool can launch attacks in several modes against WIFI targets to force devices connected to the targetted router to leak some packages (as handshakes and much more).
         
       - title: Raspberry PI - AI tool
         link: "#hook"
