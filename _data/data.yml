@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: me@catalinrus.com
+    email: me@catalinrus.com ; rus.catalin@icloud.com
     phone: +40 729666966
     website: catalinrus.com #do not add http://
     linkedin: catalin-rus-6b38b864
@@ -24,7 +24,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Mid-level:Listening-B2/Reading-A2/Spoken Interaction-B2/Spoken Production-B2/Writing-A2
+        level: Mid-level
 
         
     interests:
@@ -33,12 +33,7 @@ sidebar:
 
       - item: Travel
         link:
-        
-      - item: Cycling
-        link:
-        
-      - item: Cooking
-        link:
+
 
       
 career-profile:
@@ -57,15 +52,13 @@ experiences:
       company: SC Spy Shop SRL, Cluj-Napoca
       details: |
         - Develop and implement strategic plans to achieve branch objectives and targets;
-        - Manage the day-to-day operations of the branch, including staffing, budgeting, and resource allocation;
+        - Manage the day-to-day operations of the branch;
         - Monitor and analyze branch performance, identifying areas for improvement and implementing corrective actions;
-        - Build and maintain strong relationships with key customers and business partners;
-        - Lead and motivate a team of employees, providing guidance, coaching, and support;
+        - Build and maintain strong relationships with key customers;
         - Ensure compliance with company policies, procedures, and regulatory requirements;
-        - Collaborate with other departments or branches to promote cross-functional cooperation and achieve organizational goals;
-        - Prepare and present reports on branch performance, financial results, and market trends to senior management;
-        - Stay up-to-date with industry trends, market conditions, and competitors' activities to identify opportunities for business growth;
-        - Foster a positive and inclusive work environment, promoting teamwork, open communication, and employee development.
+        - Prepare and present reports on branch performance and financial results;
+        - Stay up-to-date with industry trends;
+        - Foster a positive and inclusive work environment, promoting teamwork, and open communication.
     - role: Software Engineer
       time: 01/04/2020 - 30.10.2022
       company: SC Tractor Set GO SRL, Cluj-Napoca
