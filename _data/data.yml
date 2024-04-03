@@ -131,7 +131,7 @@ projects:
     assignments:
       - title: Raspberry PI - Penetration Testing Lab - ethical hacking
         link: "#hook"
-        tagline: "Using a Raspberry Pi 5 and Kali Linux to learn about Kali Linux and Penetration Testing. This setup was made for educational purposes and it is used against only my router(for tests) and in my environment."
+        tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against only and all attacks to my router(for tests) and in my safe environment."
         
       - title: Raspberry PI - AI tool
         link: "#hook"
