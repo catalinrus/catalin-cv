@@ -28,16 +28,16 @@ sidebar:
 
         
     interests:
-      - item: Cyber Security
-        link:
-
-      - item: Dev-Ops
-        link:
-
       - item: Home Lab
         link:
-      
+
       - item: Raspberry Pi
+        link:
+
+      - item: Cyber Security
+        link:
+      
+      - item: Dev-Ops
         link:
 
 
@@ -129,13 +129,21 @@ projects:
     title: Projects
     intro: >
     assignments:
+      - title: Raspberry PI - Penetration Test Lab - ethical hacking
+        link: "#hook"
+        tagline: "Using a Raspberry Pi 5 and Kali Linux to learn about Kali Linux and Penetration Tests. This setup was made for educational purposes and it is used against only my router(for tests) and in my environment."
+        
+      - title: Raspberry PI - AI tool
+        link: "#hook"
+        tagline: "Using a Raspberry PI Zero 2W and custom OS without GUI which was set up to work with an e-ink display and powered by AI. This tool was created to train AI for capturing handshakes between two devices such as smartphones, laptops, or any devices connected to a router. After the handshake is captured, the devices will not be affected anymore."
+        
       - title: Raspberry PI - Travel Router
         link: "#hook"
-        tagline: "Using a Raspberry PI5 and Raspberry PI OS Lite (a Debian distribution without GUI, same as Ubuntu Server). On the Travel Router, I set WireGuard(VPN) to work as a client and all devices connected to my router will take advantage of a secure connection. The Travel Router was made for security purposes when we travel and connect our devices to a free WIFI there are many possibilities for a hacker to abuse the pieces of information that are stored in our devices."
+        tagline: "Using a Raspberry Pi 5 and Raspberry PI OS Lite (a Debian distribution without GUI, same as Ubuntu Server). On the Travel Router, I set WireGuard(VPN) to work as a client and all devices connected to my router will take advantage of a secure connection. The Travel Router was made for security purposes when we travel and connect our devices to a free WIFI there are many possibilities for a hacker to abuse the pieces of information that are stored in our devices."
         
       - title: Raspberry PI - HomeAssistant
         link: "#hook"
-        tagline: "Using a Raspberry PI5 and HOME ASSISTANT OS, I have my own smart home server which is working in my local area network. To be able to access my Home Assistant from external networks, I use a DNS and SSL certificate for encryption and security. To get rid of this Low-Power server, for my comfort at home I use AdGuard. To be able to use AdGuard, the router must be set with my custom DNS Server IP as the primary DNS Server."
+        tagline: "Using a Raspberry Pi 5 and HOME ASSISTANT OS, I have my own smart home server which is working in my local area network. To be able to access my Home Assistant from external networks, I use a DNS and SSL certificate for encryption and security. To get rid of this Low-Power server, for my comfort at home I use AdGuard. To be able to use AdGuard, the router must be set with my custom DNS Server IP as the primary DNS Server."
         
       - title: Text to Speech - Web Application
         link: "#hook"
