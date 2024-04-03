@@ -28,10 +28,13 @@ sidebar:
 
         
     interests:
-      - item: Learning
+      - item: Cyber Security
         link:
 
-      - item: Travel
+      - item: Dev-Ops
+        link:
+
+      - item: Network
         link:
 
 
