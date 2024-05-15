@@ -172,8 +172,10 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: macOS, Linux, Ubuntu, Ubuntu Server, Windows
+      - name: macOS, Linux, Ubuntu, Ubuntu Server, Kali Linux, Windows
         level: 98%
+      - name: hashcat, wifite, aircrack-ng, pwnagotchi - ethical hacking tools
+        level: 60%
       - name: BASH
         level: 60%
       - name: Git & GitHub
