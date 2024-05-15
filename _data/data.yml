@@ -12,8 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: me@catalinrus.com
-           rus.catalin@icloud.com
+    email: me@catalinrus.com ; rus.catalin@icloud.com
     phone: +40 729666966
     website: catalinrus.com #do not add http://
     linkedin: catalin-rus-6b38b864
@@ -65,7 +64,7 @@ experiences:
         - Prepare and present reports on branch performance and financial results;
         - Stay up-to-date with industry trends;
         - Foster a positive and inclusive work environment, promoting teamwork, and open communication.
-    - role: Software Engineer - DevOps
+    - role: Software Engineer
       time: 01/04/2020 - 30.10.2022
       company: SC Tractor Set GO SRL, Cluj-Napoca
       details: |
@@ -132,7 +131,7 @@ projects:
     assignments:
       - title: Raspberry PI - Penetration Testing Lab - ethical hacking
         link: "#hook"
-        tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against and only on my router to launch all attacks in my safe environment. I learned about hashcat tool and how to attack a "hash" with this tool using the "rockyou" wordlist. Another great tool is Wifite, which is more powerful and this tool can launch attacks in several modes against WIFI targets to force devices connected to the targetted router to leak some packages (as handshakes and much more)."
+        tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against only and all attacks to my router(for tests) and in my safe environment."
         
       - title: Raspberry PI - AI tool
         link: "#hook"
@@ -173,10 +172,8 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     toolset:
-      - name: macOS, Linux, Ubuntu, Ubuntu Server, Kali Linux, Windows
+      - name: macOS, Linux, Ubuntu, Ubuntu Server, Windows
         level: 98%
-      - name: hashcat, wifite, aircrack-ng, pwnagotchi - ethical hacking tools
-        level: 60%
       - name: BASH
         level: 60%
       - name: Git & GitHub
