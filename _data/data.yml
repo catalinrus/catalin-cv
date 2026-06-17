@@ -59,8 +59,9 @@ experiences:
       company: Brillio Romania, Remote
       details: |
         - Databricks: Develop pipelines in Azure Devops to deploy Databricks clusters using terraform;
-        - Microsoft Fabric: create Deployment pipelines to migrate artefacts from dev workspace to test/ppe/prod and integrate github enterprise/Azure Repos with workspaces;
-        - Working at scripts for future deployments using fabric library for CI/CD.
+        - Microsoft Fabric: create Deployment pipelines to migrate artefacts from dev workspace to test/ppe/prod and integrate git with workspaces;
+        - Fixing deployments by using PR strategy and resolving conflicts between git (github/Azure Repos) and MS Fabric workspace;
+        - Working on scripts for future deployments using fabric library for CI/CD to automate and fix deployment issues caused by git deployments using PR;
         - Troubleshot failures of deployments made via deployment pipelines;
         - Prepare deployment implementation plan from 0;
         - Working in a multi-cultural team and addapt to the situation.
