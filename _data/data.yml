@@ -54,8 +54,18 @@ education:
       details: |
         The main language of study: English
 experiences:
+    - role: DevOps Engineer
+      time: 24/08/2024 - Present
+      company: Brillio Romania, Remote
+      details: |
+        - Databricks: Develop pipelines in Azure Devops to deploy Databricks clusters using terraform;
+        - Microsoft Fabric: create Deployment pipelines to migrate artefacts from dev workspace to test/ppe/prod and integrate github enterprise/Azure Repos with workspaces;
+        - Working at scripts for future deployments using fabric library for CI/CD.
+        - Troubleshot failures of deployments made via deployment pipelines;
+        - Prepare deployment implementation plan from 0;
+        - Working in a multi-cultural team and addapt to the situation.
     - role: Branch Manager
-      time: 01/03/2023 - Present
+      time: 01/03/2023 - 24/08/2024
       company: SC Spy Shop SRL, Cluj-Napoca
       details: |
         - Develop and implement strategic plans to achieve branch objectives and targets;
@@ -66,7 +76,7 @@ experiences:
         - Stay up-to-date with industry trends;
         - Foster a positive and inclusive work environment, promoting teamwork, and open communication.
     - role: Software Engineer - DevOps
-      time: 01/04/2020 - 30.10.2022
+      time: 01/04/2020 - 30/10/2022
       company: SC Tractor Set GO SRL, Cluj-Napoca
       details: |
         - working in Agile and Scrum methodology;
