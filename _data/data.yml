@@ -135,7 +135,7 @@ projects:
         
       - title: Terraform, Ansible, Docker & kubernetes
         link: "#hook"
-        tagline: "I am using my Proxmox Cluster to learn how to make deployment using terraform for provisioning resources and on top of it I am using Ansible for configuration management. Also I am learning about docker containers and LXC containers(native Proxmox containers) and using containers because of the low spec hardware allocation that requires for applications to run applications like jellifin or a mail server unlike a VM that require significantly more resources only to run the barebone VM. "
+        tagline: "I am using my Proxmox Cluster to learn how to make deployment using terraform for provisioning resources and on top of it I am using Ansible for configuration management. Also I am learning about docker containers and LXC containers(native Proxmox containers). I am using containers because of the low spec hardware allocation that requires for applications to run applications like jellifin or a mail server unlike a VM that require significantly more resources only to run the barebone VM. "
 
       - title: Raspberry PI - Penetration Testing Lab - ethical hacking
         link: "#hook"
