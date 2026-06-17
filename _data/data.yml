@@ -125,21 +125,18 @@ experiences:
       company: SC Matrix Computers & Security SRl, Arad
       details: |
         - Installing and programming Paradox detection systems and mounting detection systems, video surveillance, access control, and their maintenance.
-    - role: PC Operator
-      time: 01/02/2013 – 28/02/2014
-      company: SC Finprom SRL, Arad
-      details: |
-        - obtain the life insurance from one of the authorized companies: AXA, Net Insurance, Cardiff, MetLife, for clients who wanted to obtain loans like Cessione del Quinto which means the assignment of the fifth part of the salary;
-        - data entry.
-    - role: Assistant Mechanic
-      time: 01/10/2011 – 01/11/2012
-      company: SC Auto Schunn SRL, Arad
-      details: |
-        - I worked in a team with an authorized mechanic and I learned how to do maintenance and vehicle diagnostic tests.
 projects:
     title: Projects
     intro: >
     assignments:
+      - title: hp elitedesk 800 G2 - home Lab - development
+        link: "#hook"
+        tagline: "Build a high-availability cluster with Ceph distributed storage using Proxmox VE 8.2 on top of 3x HP elitedesk 800 G2."
+        
+      - title: Terraform, Ansible, Docker & kubernetes
+        link: "#hook"
+        tagline: "I am using my Proxmox Cluster to learn how to make deployment using terraform for provisioning resources and on top of it I am using Ansible for configuration management. Also I am learning about docker containers and LXC containers(native Proxmox containers) and using containers because of the low spec hardware allocation that requires for applications to run applications like jellifin or a mail server unlike a VM that require significantly more resources only to run the barebone VM. "
+
       - title: Raspberry PI - Penetration Testing Lab - ethical hacking
         link: "#hook"
         tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against and only on my router to launch all attacks in my safe environment. I learned about hashcat tool and how to attack a hash with this tool using the rockyou wordlist. Another great tool is Wifite, which is more powerful and this tool can launch attacks in several modes against WIFI targets to force devices connected to the targetted router to leak some packages (as handshakes and much more)."
@@ -172,7 +169,7 @@ projects:
         link: "#hook"
         tagline: "Created a personal curriculum vitae website, using the Jekyll static site generator. The website is hosted with GitHub Pages."
         
-      - title: Personal home server
+      - title: Plex Media server
         link: "#hook"
         tagline: "I have repurposed an old laptop to create a personal home server that runs various software/services and is also used for tests when needed. It uses Ubuntu 20.04 LTS as OS and resides on my local network. Software that currently runs on said server: Cockpit, Plex Media Server, Sonarr(for tv series), Radarr(for movies), Transmission(download client), Jackett (works as a proxy server and more), Bazarr(for subtitles), Requestrr(chatbot integrated with my discord server that is using API from Sonarr & Radarr)"
 
