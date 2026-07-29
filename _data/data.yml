@@ -58,13 +58,17 @@ experiences:
       time: 24/08/2024 - Present
       company: Brillio Romania, Remote
       details: |
-        - Databricks: Develop pipelines in Azure Devops to deploy Databricks clusters using terraform;
+        - Databricks: Develop pipelines in Azure DevOps to deploy Databricks clusters using Terraform;
         - Microsoft Fabric: create Deployment pipelines to migrate artefacts from dev workspace to test/ppe/prod and integrate git with workspaces;
         - Fixing deployments by using PR strategy and resolving conflicts between git (github/Azure Repos) and MS Fabric workspace;
-        - Working on scripts for future deployments using fabric library for CI/CD to automate and fix deployment issues caused by git deployments using PR;
+        - Working on scripts for future deployments using the fabric library for CI/CD to automate and fix deployment issues caused by git deployments using PR;
         - Troubleshot failures of deployments made via deployment pipelines;
-        - Prepare deployment implementation plan from 0;
-        - Working in a multi-cultural team and addapt to the situation.
+        - Prepare deployment implementation plan;
+        - Working in a multicultural team and adapting to the situation.
+        - Create diagrams with drow.io for Proof of Concept projects.
+        - Wrote documentation for what I implemented and how it works.
+        - Followed the DevOps approach to use variables and secrets in pipelines and for Terraform, and
+nothing hard-coded.
     - role: Branch Manager
       time: 01/03/2023 - 24/08/2024
       company: SC Spy Shop SRL, Cluj-Napoca
@@ -75,7 +79,7 @@ experiences:
         - Build and maintain strong relationships with key customers;
         - Prepare and present reports on branch performance and financial results;
         - Stay up-to-date with industry trends;
-        - Foster a positive and inclusive work environment, promoting teamwork, and open communication.
+        - Foster a positive and inclusive work environment, promoting teamwork and open communication.
     - role: Software Engineer - DevOps
       time: 01/04/2020 - 30/10/2022
       company: SC Tractor Set GO SRL, Cluj-Napoca
@@ -86,7 +90,7 @@ experiences:
         - Zabbix server deployment and management;
         - GitLab server deployment and management;
         - Nextcloud instance deployment and management;
-        - working with Oracle Virtual Box for VM instances;
+        - working with Oracle VirtualBox for VM instances;
         - Linux;
         - BASH.
     - role: Deputy General Manager
@@ -112,7 +116,7 @@ experiences:
       company:  SC Spy Shop SRL, Timisoara
       details: |
         - technical support via phone/live video or face-to-face;
-        - creating youtube content;
+        - creating YouTube content;
         - Maintenance, Installation, Setting, and Repair of SLINEX Analogue/IP-based and IP Direct product lines;
         - sales.
     - role: Sales Consultant
@@ -130,21 +134,21 @@ projects:
     title: Projects
     intro: >
     assignments:
-      - title: hp elitedesk 800 G2 - home Lab - development
+      - title: HP EliteDesk 800 G2 - home Lab - development
         link: "#hook"
         tagline: "Build a high-availability cluster with Ceph distributed storage using Proxmox VE 8.2 on top of 3x HP elitedesk 800 G2."
         
-      - title: Terraform, Ansible, Docker & kubernetes
+      - title: Terraform, Ansible, Docker & Kubernetes
         link: "#hook"
-        tagline: "I am using my Proxmox Cluster to learn how to make deployment using terraform for provisioning resources and on top of it I am using Ansible for configuration management. Also I am learning about docker containers and LXC containers(native Proxmox containers). I am using containers because of the low spec hardware allocation that requires for applications to run applications like jellifin or a mail server unlike a VM that require significantly more resources only to run the barebone VM. "
+        tagline: "I am using my Proxmox Cluster to learn how to make deployments using Terraform for provisioning resources, and on top of it I am using Ansible for configuration management. Also, I am learning about Docker containers and LXC containers(native Proxmox containers). I am using containers because of the low spec hardware allocation that requires for applications to run applications like jellifin or a mail server unlike a VM that require significantly more resources only to run the barebone VM. "
 
       - title: Raspberry PI - Penetration Testing Lab - ethical hacking
         link: "#hook"
-        tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against and only on my router to launch all attacks in my safe environment. I learned about hashcat tool and how to attack a hash with this tool using the rockyou wordlist. Another great tool is Wifite, which is more powerful and this tool can launch attacks in several modes against WIFI targets to force devices connected to the targetted router to leak some packages (as handshakes and much more)."
+        tagline: "Using a Raspberry Pi 5 and Kali Linux. This setup was made for educational purposes, to learn about Kali Linux and Penetration Testing. It is used against and only on my router to launch all attacks in my safe environment. I learned about the hashcat tool and how to attack a hash with this tool using the rockyou wordlist. Another great tool is Wifite, which is more powerful and this tool can launch attacks in several modes against WIFI targets to force devices connected to the targetted router to leak some packages (as handshakes and much more)."
         
       - title: Raspberry PI - AI tool
         link: "#hook"
-        tagline: "Using a Raspberry PI Zero 2W and custom OS without GUI which was set up to work with an e-ink display and powered by AI. This tool was created to train AI for capturing handshakes between two devices such as smartphones, laptops, or any devices connected to a router. After the handshake is captured, the devices will not be affected anymore."
+        tagline: "Using a Raspberry PI Zero 2W and custom OS without a GUI, which was set up to work with an e-ink display and powered by AI. This tool was created to train AI for capturing handshakes between two devices such as smartphones, laptops, or any devices connected to a router. After the handshake is captured, the devices will not be affected anymore."
         
       - title: Raspberry PI - Travel Router
         link: "#hook"
