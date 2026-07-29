@@ -67,8 +67,7 @@ experiences:
         - Working in a multicultural team and adapting to the situation.
         - Create diagrams with drow.io for Proof of Concept projects.
         - Wrote documentation for what I implemented and how it works.
-        - Followed the DevOps approach to use variables and secrets in pipelines and for Terraform, and
-nothing hard-coded.
+        - Followed the DevOps approach to use variables and secrets in pipelines and for Terraform, and nothing hard-coded.
     - role: Branch Manager
       time: 01/03/2023 - 24/08/2024
       company: SC Spy Shop SRL, Cluj-Napoca
